@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//app-side-bar</value>
+         <value>//a[@id=&quot;sidebar-home-btn&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>5085f4c7-0d3c-46ee-9561-ba5af62c5f5e</webElementGuid>
+      <webElementGuid>729ae9cb-7728-4468-b97f-1c9e09232658</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>../../../assets/images/mytower-logo-text.png</value>
-      <webElementGuid>b2b7afe6-a648-4d9a-b529-5bbb41e6845b</webElementGuid>
+      <webElementGuid>4c2e20aa-75d7-4bb7-bfbb-7dfcc598f382</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>598d97e5-6e91-427b-a7d8-fcd0c3d8fe91</webElementGuid>
+      <webElementGuid>9067dd14-f746-4852-8139-c53237850149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>width</name>
       <type>Main</type>
       <value>150</value>
-      <webElementGuid>e2b00f68-0e71-4bc6-bbae-a38e27683dd2</webElementGuid>
+      <webElementGuid>60a6fde9-5e44-4dab-bce1-aeb94dd3f0e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mytower-logo&quot;)/img[1]</value>
-      <webElementGuid>566281e5-9295-4a1d-b7b5-9513b400aad7</webElementGuid>
+      <webElementGuid>e650c781-dfde-4794-b392-10124406e4ef</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

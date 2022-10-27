@@ -29,6 +29,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to MyTower
 WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_submit pointer'))
 
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Sign in to MyTower/side_bar'), 0)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/side_bar'), 0)
 
 WebUI.closeBrowser()
