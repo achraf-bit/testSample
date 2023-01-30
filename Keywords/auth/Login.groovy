@@ -31,7 +31,7 @@ public class Login {
 		WebUI.setText(findTestObject('Object Repository/Login Page/input_Email'), username)
 		WebUI.setEncryptedText(findTestObject('Object Repository/Login Page/input_Password'), password)
 		WebUI.click(findTestObject('Object Repository/Login Page/button_Log in'))
-		WebUI.waitForElementVisible(findTestObject('Object Repository/Home Page/logo/logo MyTower'), 20)
+		WebUI.waitForElementVisible(findTestObject('Order Page/Advanced Search/input_Select_User'),0)
 	}
 
 	@Keyword
@@ -40,6 +40,5 @@ public class Login {
 		WebUI.setText(findTestObject('Order Page/Advanced Search/input_Select_User'), 'Mey')
 		WebUI.click(findTestObject('Order Page/Advanced Search/div_User'))
 		WebUI.click(findTestObject('Order Page/Advanced Search/button_Sign_In'))
-		WebUI.waitForElementVisible(findTestObject('Object Repository/Home Page/logo/logo MyTower'), 20)
 	}
 }
