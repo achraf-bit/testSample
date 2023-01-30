@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SAP_Order</name>
+   <tag></tag>
+   <elementGuidId>0e4e2d0c-8461-4382-be68-c4a6c34c0e40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;ng-option ng-option-marked ng-star-inserted&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#aed97b45eac1-0 > div.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd9d9ed3-175a-4c09-ae6c-2fb9327bf4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>ec4c0b8e-820a-4f47-9644-5712f2a4b674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2322002661</value>
+      <webElementGuid>c9d98816-5efa-4744-9de2-8ed68d5a3aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aed97b45eac1-0&quot;)/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>cae29c8b-0004-4499-8559-b4f0e6bb2a33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aed97b45eac1-0']/div</value>
+      <webElementGuid>8e992acd-e22c-49f1-a8cf-5b6ca9b33008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAP Order# :'])[1]/following::div[11]</value>
+      <webElementGuid>f9e0d29f-35fb-4b0a-937c-58a5012df59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADVANCED SEARCH'])[1]/following::div[16]</value>
+      <webElementGuid>d9025790-856b-4355-aa9f-287c4b59373c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer PO# :'])[1]/preceding::div[1]</value>
+      <webElementGuid>a71bf7ec-2c87-476d-9ddc-7f7af2821260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDI Order# :'])[1]/preceding::div[10]</value>
+      <webElementGuid>3e8c1aa7-c59b-41fb-bc2b-bf97ba444938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div/div</value>
+      <webElementGuid>9b63ce25-7e55-45d2-b241-cc3bf304e549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2322002661' or . = '2322002661')]</value>
+      <webElementGuid>d514c0ff-b4c7-4506-bfc5-95ec893e843c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_25</name>
+   <tag></tag>
+   <elementGuidId>0fb961ab-c83c-4ec6-9f46-0e353622c28a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-dashboard-order/div/app-delivery-search/app-collapsible-panel/div/div[2]/app-advanced-form-search/form/div/div[17]/div/div[2]/div/div/app-datetime-picker/div/div/div/ngb-datepicker/div[2]/div/ngb-datepicker-month-view/div[5]/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>12d6eb23-602a-4450-ab8d-429d9142133f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-light ng-star-inserted</value>
+      <webElementGuid>67f0641f-632d-4c57-bf24-2d22db14f922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>474fa5d8-5f7e-4fe1-ba54-4715f43c4354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-dashboard-order[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper app-padding&quot;]/app-delivery-search[1]/app-collapsible-panel[@class=&quot;advanced-search&quot;]/div[@class=&quot;collapsible-panel panel panel-visible&quot;]/div[@class=&quot;panel-body body-table body-search  body-search&quot;]/app-advanced-form-search[1]/form[@class=&quot;form-horizontal ng-untouched ng-valid ng-star-inserted ng-dirty&quot;]/div[@class=&quot;row d-flex-w&quot;]/div[@class=&quot;col-md-4 form-group mgtop ng-star-inserted&quot;]/div[@class=&quot;nochpadding&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom&quot;]/app-datetime-picker[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;col-md-12 nopadding date-picker_wrapper&quot;]/div[1]/div[@class=&quot;input-group&quot;]/ngb-datepicker[@class=&quot;dropdown-menu show ng-star-inserted&quot;]/div[@class=&quot;ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month ng-star-inserted&quot;]/ngb-datepicker-month-view[1]/div[@class=&quot;ngb-dp-week ng-star-inserted&quot;]/div[@class=&quot;ngb-dp-day ng-star-inserted&quot;]/div[@class=&quot;btn-light ng-star-inserted&quot;]</value>
+      <webElementGuid>f31fa66f-267f-4a59-b38e-27224acac962</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-dashboard-order/div/app-delivery-search/app-collapsible-panel/div/div[2]/app-advanced-form-search/form/div/div[17]/div/div[2]/div/div/app-datetime-picker/div/div/div/ngb-datepicker/div[2]/div/ngb-datepicker-month-view/div[5]/div[5]/div</value>
+      <webElementGuid>d8075c39-9c3c-468f-8d1d-154254a10812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::div[56]</value>
+      <webElementGuid>05670e87-5c1a-488a-95d1-99c4d399d901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[57]</value>
+      <webElementGuid>30675062-aea3-4ab2-a63f-f3f0f6ee7d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date (Date From) :'])[1]/preceding::div[35]</value>
+      <webElementGuid>dcf8d12b-9dcb-41fc-bbde-152653bb5eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date (Date To) :'])[1]/preceding::div[44]</value>
+      <webElementGuid>c6e3d82c-4e93-400a-aa41-8be3f75c3faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <webElementGuid>7fe05659-cea1-4150-8cac-763c816deffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[5]/div</value>
+      <webElementGuid>fa4094aa-07be-4852-93a5-0e2afd0e4d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '25' or . = '25')]</value>
+      <webElementGuid>77445915-ffc2-4d55-a9f0-80a42e90b133</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

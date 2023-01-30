@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign_In</name>
+   <tag></tag>
+   <elementGuidId>854c2a66-7818-4026-8010-f6f03e59c650</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='connectas']/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-sign-in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c8f799cd-c9a3-42c5-8397-def8855b7da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sign-in</value>
+      <webElementGuid>8742232e-c943-4973-8bef-dd7f9bc811e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;connectas&quot;)/div[@class=&quot;ng-star-inserted&quot;]/div[1]/button[@class=&quot;btn btn-sm conas-login&quot;]/i[@class=&quot;fa fa-sign-in&quot;]</value>
+      <webElementGuid>e49f6a2f-731f-43c8-bf45-b2b415be13da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='connectas']/div/div/button/i</value>
+      <webElementGuid>5eab2ce4-03ee-44b2-b4cd-fdb18f11d30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>fe5afcb0-e6a9-4494-9a30-bcf0f6298680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

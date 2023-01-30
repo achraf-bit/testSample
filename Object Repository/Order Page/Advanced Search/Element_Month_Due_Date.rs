@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_Month_Due_Date</name>
+   <tag></tag>
+   <elementGuidId>569e74c8-91cb-4d4a-b549-b464e86b8b09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@aria-label=&quot;March&quot;] </value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>8a98bc47-fc77-49b2-9e54-b634db2bb35b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1660840818682</value>
+      <webElementGuid>3f4bb0a8-6a6a-4798-a142-45362645a1ea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>testSample</name>
+   <name>Channel</name>
    <tag></tag>
-   <UUID>6b36b4d0-4cda-4e11-9c6a-4cc0f9f3bcc8</UUID>
+   <UUID>c4e1712c-b7b9-4c8e-bd3a-543623e0da63</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Admin\Desktop\stage\code\testSample\testSample.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Admin\Katalon Studio\Chanel\Channel.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

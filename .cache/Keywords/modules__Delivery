@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "46602AC48A008494B2FC5682F2A23F78",
+  "keywordClasses": [
+    {
+      "name": "modules.Delivery",
+      "keywordMethods": [
+        {
+          "name": "accessToDelivery",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

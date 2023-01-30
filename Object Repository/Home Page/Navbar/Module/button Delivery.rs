@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Delivery</name>
+   <tag></tag>
+   <elementGuidId>bf5171b9-32d9-4fb7-91e5-3c0ada932a23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modules-wrapper__items']/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1013c9b-764e-4952-955e-d17601fb8a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-icon-delivery-management </value>
+      <webElementGuid>84a8e392-f66e-441d-b615-396c27bfa9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modules-wrapper__items&quot;)/li[@class=&quot;border-bottom_trans ng-star-inserted&quot;]/a[1]/span[@class=&quot;my-icon-delivery-management&quot;]</value>
+      <webElementGuid>123b95a2-906c-4624-8ead-83584b2d5557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modules-wrapper__items']/li[3]/a/span</value>
+      <webElementGuid>cebf9bf4-b08c-4dbf-ab97-e16116303d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>d9a51000-8441-47e3-82d7-6f4d4ffc038f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

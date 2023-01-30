@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Creation Date</name>
+   <tag></tag>
+   <elementGuidId>ea32490c-2f52-4f29-87a1-31fa2c0f0fe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-dashboard-order/div/app-delivery-search/app-collapsible-panel/div/div[2]/app-advanced-form-search/form/div/div[16]/div/div[2]/div/div/app-datetime-picker/div/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.date-picker-input.ng-valid.ng-touched.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bf2a5c97-3961-4ea0-9eb0-89f801a499ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control date-picker-input ng-valid ng-touched ng-dirty</value>
+      <webElementGuid>7355dc68-d437-45e8-87b0-6c36183bf633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>dd/mm/yyyy</value>
+      <webElementGuid>56d1ffbb-cc78-408c-92b7-274149079e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-dashboard-order[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper app-padding&quot;]/app-delivery-search[1]/app-collapsible-panel[@class=&quot;advanced-search&quot;]/div[@class=&quot;collapsible-panel panel panel-visible&quot;]/div[@class=&quot;panel-body body-table body-search  body-search&quot;]/app-advanced-form-search[1]/form[@class=&quot;form-horizontal ng-untouched ng-valid ng-star-inserted ng-dirty&quot;]/div[@class=&quot;row d-flex-w&quot;]/div[@class=&quot;col-md-4 form-group mgtop ng-star-inserted&quot;]/div[@class=&quot;nochpadding&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom&quot;]/app-datetime-picker[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;col-md-12 nopadding date-picker_wrapper&quot;]/div[1]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control date-picker-input ng-valid ng-touched ng-dirty&quot;]</value>
+      <webElementGuid>5af4e788-f4f5-404d-a432-0d289d6cfdf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-dashboard-order/div/app-delivery-search/app-collapsible-panel/div/div[2]/app-advanced-form-search/form/div/div[16]/div/div[2]/div/div/app-datetime-picker/div/div/div/input</value>
+      <webElementGuid>a2e55556-82b6-4f40-bc29-1ca744085bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-datetime-picker/div/div/div/input</value>
+      <webElementGuid>001e72d9-9404-4f77-9e1b-2be2b6c842db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'dd/mm/yyyy']</value>
+      <webElementGuid>41be26f6-9022-4ec7-ac55-8ae528585955</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

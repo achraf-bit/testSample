@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>4ba6ad84-cc2f-485e-85ff-18fb610bb484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-dashboard-order/div/app-delivery-search/app-collapsible-panel/div/div[2]/app-advanced-form-search/div/div[2]/div/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-sm.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf9a154e-3b3d-425e-ab8f-9f1ca70053a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm ng-star-inserted</value>
+      <webElementGuid>24893ea4-dc98-4583-82dc-efcb72a60f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search </value>
+      <webElementGuid>7e23b755-fd35-47ac-9183-66e800b99aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-dashboard-order[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper app-padding&quot;]/app-delivery-search[1]/app-collapsible-panel[@class=&quot;advanced-search&quot;]/div[@class=&quot;collapsible-panel panel panel-visible&quot;]/div[@class=&quot;panel-body body-table body-search  body-search&quot;]/app-advanced-form-search[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;pull-right&quot;]/button[@class=&quot;btn btn-primary btn-sm ng-star-inserted&quot;]</value>
+      <webElementGuid>2e2504ad-f201-451f-82ab-b5ca9b35eeec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-dashboard-order/div/app-delivery-search/app-collapsible-panel/div/div[2]/app-advanced-form-search/div/div[2]/div/button[3]</value>
+      <webElementGuid>23d93d18-bac2-4779-ab7a-f5e3afdd20e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save as filter'])[1]/following::button[1]</value>
+      <webElementGuid>f18a541d-edcd-4494-a89c-cc3535a706a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear all fields'])[1]/following::button[2]</value>
+      <webElementGuid>c6448182-2efa-4103-a33e-1a46cfdde0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-btn'])[1]/preceding::button[1]</value>
+      <webElementGuid>26286b96-802c-42d6-bf52-84f367bd0723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-btn'])[2]/preceding::button[2]</value>
+      <webElementGuid>90e73639-c4a8-4ad5-9474-c513b21c7a35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>92546ecb-ff08-43fe-9938-cbd828fa965e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>6d7d2010-945a-461a-9901-911deec7ed16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Search ' or . = 'Search ')]</value>
+      <webElementGuid>e24188ca-dc31-4aac-ba7d-cf8f5ab1cfa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Element</name>
+   <tag></tag>
+   <elementGuidId>463b4821-0cac-410b-b4ee-eee6a0081dc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;ng-option ng-option-marked ng-star-inserted&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a973ffd24a4e-0 > div.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9279a89b-63d3-461a-a28b-3118d756e58a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>33052a4b-c76e-4d91-a53f-d14ddcc66ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PUR0112862</value>
+      <webElementGuid>c0302d48-9df7-42b2-b793-4c331d3d3ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a973ffd24a4e-0&quot;)/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>e025ff4f-9244-469a-9d06-6ddd8b9723ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a973ffd24a4e-0']/div</value>
+      <webElementGuid>9d257933-bb6b-4b34-9e75-b5eb0e8f4559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDI Order# :'])[1]/following::div[11]</value>
+      <webElementGuid>2b5c368e-2d13-42fc-ac0f-9f9387edfea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer PO# :'])[1]/following::div[20]</value>
+      <webElementGuid>22fc5580-6a33-44c9-b0fa-93c6e70d015c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery# :'])[1]/preceding::div[1]</value>
+      <webElementGuid>2f943ed9-9765-4b9d-a513-2995616d0adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div/div</value>
+      <webElementGuid>def43678-792a-4a35-987b-5d257c2ac816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PUR0112862' or . = 'PUR0112862')]</value>
+      <webElementGuid>1ae4376d-4930-4860-8c1e-73b1c666a0c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_Month</name>
+   <tag></tag>
+   <elementGuidId>443d2d18-55f5-4610-8859-6d88c4aedfd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@aria-label=&quot;February&quot;] </value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>c80a4f67-1f01-46c9-b44e-54c4fc9c6d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1660840611205</value>
+      <webElementGuid>49f9ea6d-ca2a-42de-b09a-b9527c58bf60</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

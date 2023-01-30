@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cpb.preprod.mytower.fr/'</initValue>
+      <name>UrlTMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mytower2018+ct@gmail.com'</initValue>
+      <name>SuperAdminEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cQlZAR1V2CaThNHrQfGK3Q=='</initValue>
+      <name>SuperAdminPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
