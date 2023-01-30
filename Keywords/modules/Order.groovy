@@ -23,6 +23,7 @@ import internal.GlobalVariable
 public class Order {
 	@Keyword
 	def accessToOrders() {
+		WebUI.waitForElementVisible(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'), 0)
 		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'))
 		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Order'))
 		WebUI.waitForElementVisible(findTestObject('Object Repository/Order Page/Dashboard/table Elements'), 0)
