@@ -38,6 +38,7 @@ public class Order {
 			try {
 				WebUI.click(findTestObject('Order Page/Advanced Search/button_Advanced_Search'))
 				success = true
+				println("successfuly clicked")
 			} catch (Exception e) {
 				retry--
 				if (retry == 0) {
