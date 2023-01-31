@@ -24,6 +24,7 @@ public class Order {
 	@Keyword
 	def accessToOrders() {
 		def buttonModules = findTestObject('Object Repository/Home Page/Navbar/Module/button Modules')
+		println(buttonModules)
 		if(buttonModules == null ) {
 			throw new RuntimeException("button modules not found")
 		}

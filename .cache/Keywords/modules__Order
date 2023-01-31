@@ -1,19 +1,21 @@
 {
-  "keywordFileContentHash": "DB2F1EAB0507F6153E15D689377A73EA",
+  "keywordFileContentHash": "069D45B67FCDE667ADE1BD8F29BA65B7",
   "keywordClasses": [
     {
       "name": "modules.Order",
       "keywordMethods": [
         {
           "name": "accessToOrders",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "advancedSearch",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
