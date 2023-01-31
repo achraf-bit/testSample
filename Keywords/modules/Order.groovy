@@ -23,8 +23,11 @@ import internal.GlobalVariable
 public class Order {
 	@Keyword
 	def accessToOrders() {
-		WebUI.waitForElementVisible(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'), 0)
-		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'))
+		def buttonModules = findTestObject('Object Repository/Home Page/Navbar/Module/button Modules')
+		if(buttonModules == null ) {
+			throw new RuntimeException("button modules not found")
+		}
+		WebUI.click(buttonModules)
 		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Order'))
 		WebUI.waitForElementVisible(findTestObject('Object Repository/Order Page/Dashboard/table Elements'), 0)
 		WebUI.verifyElementVisible(findTestObject('Object Repository/Order Page/Dashboard/table Elements'))
