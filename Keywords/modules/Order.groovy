@@ -31,7 +31,22 @@ public class Order {
 	}
 	@Keyword
 	def advancedSearch() {
-		WebUI.click(findTestObject('Order Page/Advanced Search/button_Advanced_Search'))
+		def retry = 3
+		def success = false
+
+		while (retry > 0 && !success) {
+			try {
+				WebUI.click(findTestObject('Order Page/Advanced Search/button_Advanced_Search'))
+				success = true
+			} catch (Exception e) {
+				retry--
+				if (retry == 0) {
+					println("Failed to click the button after multiple attempts")
+				} else {
+					println("Retrying click action...")
+				}
+			}
+		}
 		WebUI.setText(findTestObject('Order Page/Advanced Search/input_SAP_Order'), '2322002661')
 		WebUI.click(findTestObject('Order Page/Advanced Search/div_SAP_Order'))
 		WebUI.click(findTestObject('Order Page/Advanced Search/button_Search'))

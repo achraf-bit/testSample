@@ -22,7 +22,7 @@ import internal.GlobalVariable
 
 public class Delivery {
 	@Keyword
-	def accessToDelivery() { 
+	def accessToDelivery() {
 		WebUI.waitForElementVisible(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'), 0)
 		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'))
 		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Delivery'))
