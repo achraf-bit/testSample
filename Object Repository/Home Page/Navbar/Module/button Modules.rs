@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='modules-wrapper__btn']</value>
+         <value>//a[@id='modules-wrapper__btn']/i</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>f06d295b-30ac-4da8-9f54-36717fdd8eeb</webElementGuid>
+      <webElementGuid>e25de83d-9ef7-4f98-8f4b-5d56a2c8a4d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-th</value>
-      <webElementGuid>7f268797-123f-44e3-989e-01581d3d5c94</webElementGuid>
+      <webElementGuid>156dc54c-d07b-4c2b-bda7-065ab1c76c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modules-wrapper__btn&quot;)/i[@class=&quot;fa fa-th&quot;]</value>
-      <webElementGuid>c5ec79f4-7f6d-4d21-b534-2d1c95b6a313</webElementGuid>
+      <webElementGuid>fe6f1113-6c34-4ea5-8596-aee32e20ed32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='modules-wrapper__btn']/i</value>
-      <webElementGuid>eb68d938-8b4b-4af1-9ef5-072a95828918</webElementGuid>
+      <webElementGuid>e92726c9-15fb-4218-93b2-489fcde1884d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a/i</value>
-      <webElementGuid>a3523d52-14ee-4c84-a22a-8479ab07028f</webElementGuid>
+      <webElementGuid>8ea3d6ad-5daf-400a-a0b4-6d8b298e7685</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

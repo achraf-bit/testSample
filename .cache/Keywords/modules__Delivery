@@ -1,15 +1,16 @@
 {
-  "keywordFileContentHash": "AF46223EE63E395B5EB4370F30294EDF",
+  "keywordFileContentHash": "AA61CBFB41C28BCB7259BF4CFA41B365",
   "keywordClasses": [
     {
       "name": "modules.Delivery",
       "keywordMethods": [
         {
           "name": "accessToDelivery",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

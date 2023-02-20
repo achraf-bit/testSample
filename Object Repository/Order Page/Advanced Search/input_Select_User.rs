@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;connectas&quot;]/div/div/ng-select/div/div/div[2]/input</value>
+         <value>//*[@id=&quot;connectas&quot;]//ng-select//input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>716d026a-1db4-4e5d-bea1-376dedf0bbdf</webElementGuid>
+      <webElementGuid>e0f8fc98-7fae-4a44-ac09-fc58575ade63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>ba24b239-d4c6-43e9-9e05-c617cd25aef5</webElementGuid>
+      <webElementGuid>e846395d-168f-4530-abc4-c6ead3962f74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>109a312f-a37f-4db6-b6ff-b80885f33eea</webElementGuid>
+      <webElementGuid>76782160-1844-41ee-a3cb-8816f17ec7eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>695f7837-0cf8-49e4-af33-892e9d63b8d2</webElementGuid>
+      <webElementGuid>e66245fe-cf0d-432f-b3b8-02dddaa43dba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a29c05a3-83a1-4754-a5c6-6f46cea422d2</webElementGuid>
+      <webElementGuid>533063ff-c0ef-4bf4-81db-7f10f451a464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>aa1a2be48861</value>
-      <webElementGuid>565c7e38-8c18-4cb1-9761-cdd76d3acd86</webElementGuid>
+      <webElementGuid>6ef4bb80-1adf-404b-8703-6b322ed1be61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>942a7ed0-8512-494e-a133-66143283dae4</webElementGuid>
+      <webElementGuid>299add89-1815-43b4-b1d7-41602be973d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-owns</name>
       <type>Main</type>
       <value>aa1a2be48861</value>
-      <webElementGuid>ae948b05-0269-4d1d-86fe-a90c501517ab</webElementGuid>
+      <webElementGuid>848d9762-78ef-4ea9-9c2f-72142019aeff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;connectas&quot;)/div[@class=&quot;ng-star-inserted&quot;]/div[1]/ng-select[@class=&quot;selector ng-select ng-select-single ng-select-typeahead ng-select-searchable ng-select-clearable ng-untouched ng-pristine ng-valid ng-select-opened ng-select-bottom ng-select-focused&quot;]/div[@class=&quot;ng-select-container&quot;]/div[@class=&quot;ng-value-container&quot;]/div[@class=&quot;ng-input&quot;]/input[1]</value>
-      <webElementGuid>aeb5c6ba-6d42-49f0-b526-8c4cff3ccef0</webElementGuid>
+      <webElementGuid>feeafb93-c5d5-4069-bfd1-af44c1b6bb0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>02017687-7bf2-48b0-843b-09e1561649ff</webElementGuid>
+      <webElementGuid>d1eb8082-cd58-4172-bd90-539cb019b383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='connectas']/div/div/ng-select/div/div/div[2]/input</value>
-      <webElementGuid>d7ba7a0b-d5b6-4bc3-afce-b50f9c0a13af</webElementGuid>
+      <webElementGuid>125c4e1d-525d-4605-b43a-db7e4b99f2b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>39e20136-96f5-47f6-89dc-d9c8f4377e93</webElementGuid>
+      <webElementGuid>b364ce11-11fb-48ed-a793-0385847ebc10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>860ae3a7-bcdb-4422-9d2a-8bbe4948ede1</webElementGuid>
+      <webElementGuid>92bf0bdc-054a-44dd-9e75-4079023a88d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

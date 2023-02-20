@@ -1,21 +1,19 @@
 {
-  "keywordFileContentHash": "1870074FFBD5FCD92810BC5D259C3E98",
+  "keywordFileContentHash": "A84A94B94F5D6672B23E2472985C465E",
   "keywordClasses": [
     {
       "name": "auth.Login",
       "keywordMethods": [
         {
           "name": "loginSuperAdmin",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "loginFromHomePage",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

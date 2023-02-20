@@ -31,14 +31,16 @@ public class Login {
 		WebUI.setText(findTestObject('Object Repository/Login Page/input_Email'), username)
 		WebUI.setEncryptedText(findTestObject('Object Repository/Login Page/input_Password'), password)
 		WebUI.click(findTestObject('Object Repository/Login Page/button_Log in'))
-		WebUI.waitForElementVisible(findTestObject('Order Page/Advanced Search/input_Select_User'),0)
+		WebUI.waitForElementVisible(findTestObject('Order Page/Advanced Search/input_Select_User'),300)
 	}
 
 	@Keyword
 	def loginFromHomePage() {
-		WebUI.waitForElementVisible(findTestObject('Order Page/Advanced Search/input_Select_User'),0)
+		WebUI.waitForElementVisible(findTestObject('Order Page/Advanced Search/input_Select_User'),300)
+		WebUI.click(findTestObject('Order Page/Advanced Search/input_Select_User'))
 		WebUI.setText(findTestObject('Order Page/Advanced Search/input_Select_User'), 'Mey')
 		WebUI.click(findTestObject('Order Page/Advanced Search/div_User'))
+		WebUI.waitForElementClickable(findTestObject('Order Page/Advanced Search/button_Sign_In'), 300)
 		WebUI.click(findTestObject('Order Page/Advanced Search/button_Sign_In'))
 	}
 }

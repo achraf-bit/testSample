@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://cpb.preprod.mytower.fr/'</initValue>
+      <initValue>'https://chanel-pb.mytower.fr/login-chanel'</initValue>
       <name>UrlTMS</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -16,7 +16,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'cQlZAR1V2CaThNHrQfGK3Q=='</initValue>
+      <initValue>'cQlZAR1V2CaRxoKUogSjpw=='</initValue>
       <name>SuperAdminPassword</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

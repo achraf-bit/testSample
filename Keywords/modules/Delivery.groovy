@@ -19,18 +19,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
+import io.netty.util.concurrent.FailedFuture
 
 public class Delivery {
 	@Keyword
 	def accessToDelivery() {
-		def buttonModules = findTestObject('Object Repository/Home Page/Navbar/Module/button Modules')
-		println(buttonModules)
-		if(buttonModules == null ) {
-			throw new RuntimeException("button modules not found")
-		}
-		WebUI.click(buttonModules)
+		WebUI.waitForElementPresent(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'), 300)
+		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Modules'))
 		WebUI.click(findTestObject('Object Repository/Home Page/Navbar/Module/button Delivery'))
-		WebUI.waitForElementVisible(findTestObject('Object Repository/Delivery Page/Dashboard/table Elements'), 0)
+		WebUI.waitForElementVisible(findTestObject('Object Repository/Delivery Page/Dashboard/table Elements'), 300)
 		WebUI.verifyElementVisible(findTestObject('Object Repository/Delivery Page/Dashboard/table Elements'))
 	}
 }
